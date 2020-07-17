@@ -10,4 +10,5 @@ main_CL_sim.m - runs the closed loop simulation either using the exact MPC or th
 * ApproxMPC.m 
 
 
+Code developed using CasADi v3.5.1
 This is a working document and is subject to change. 
