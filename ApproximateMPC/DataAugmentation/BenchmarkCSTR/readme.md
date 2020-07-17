@@ -1,4 +1,4 @@
-##### Benchmark CSTR example
+### Benchmark CSTR example
 
 To generate the data using sensitivity based data augmentation technique and train the Neural network, run main_GenTrainData.m. It uses the following functions:
 * BenchmarkCSTR.m
